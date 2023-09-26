@@ -7,3 +7,9 @@ def test():
     print(123)
 
 test()
+
+class Test():
+    def __init__(self):
+        pass
+
+t = Test()
